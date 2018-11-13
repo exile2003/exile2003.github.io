@@ -59,7 +59,7 @@ var Sokoban = function(level){
   drawLvl();
 
   var keyDowns = $(document).asEventStream("keydown");
-  alert(keyDowns);
+  console.log(keyDowns);
   var arrowDowns = keyDowns.filter(isArrows);
   var currentDirection = arrowDowns.map(findDirection);
   currentDirection.onValue(updateDirection);
