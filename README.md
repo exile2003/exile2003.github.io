@@ -1,1 +1,1 @@
-You can use this [demo](exile2003.github.io/src/index.html)
+You can use this [demo](/src/index.html)
