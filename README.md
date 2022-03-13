@@ -1,1 +1,1 @@
-You can use this [demo](/src)
+You can use this [demo](src)
