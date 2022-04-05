@@ -1,2 +1,2 @@
 # My demo applications
-[demo](https://exile2003.github.io/)
+[demo](https://exile2003.github.io/ind)
