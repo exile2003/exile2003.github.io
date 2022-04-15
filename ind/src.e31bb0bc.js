@@ -37249,19 +37249,20 @@ FileSaver.saveAs(file);
 */
 var myFile = document.getElementById("myFile");
 var files;
+/*
+FileAPI.event.on(myFile, 'change', function (evt){
+    // Retrieve file list
+    files = FileAPI.getFiles(myFile);
 
-_fileapi.default.event.on(myFile, 'change', function (evt) {
-  // Retrieve file list
-  files = _fileapi.default.getFiles(myFile); // or event
-  //files = FileAPI.getFiles(evt);
+    // or event
+    //files = FileAPI.getFiles(evt);
 
-  _fileapi.default.upload({
-    url: './text.txt',
-    files: {
-      images: files
-    }
-  });
+    FileAPI.upload({
+        url: './text.txt',
+        files: {images: files}
+    })
 });
+*/
 
 function Example() {
   var _useState = (0, _react.useState)(0),
@@ -37309,7 +37310,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "62214" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "56604" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
