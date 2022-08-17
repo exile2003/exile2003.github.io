@@ -8478,7 +8478,7 @@ if ("development" !== "production") {
 
     var style = {};
     /**
-     * Bootstrap if a DOM exists.
+     * Bootstrap-filestyle if a DOM exists.
      */
 
     if (canUseDOM) {
