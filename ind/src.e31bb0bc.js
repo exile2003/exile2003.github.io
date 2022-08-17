@@ -8560,7 +8560,6 @@ if ("development" !== "production") {
     // Based on:
     // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/clz32
 
-<<<<<<< HEAD:parcel-bundler.e31bb0bc.js
     var vendorPrefixes = {
       animationend: makePrefixMap('Animation', 'AnimationEnd'),
       animationiteration: makePrefixMap('Animation', 'AnimationIteration'),
@@ -8658,10 +8657,9 @@ if ("development" !== "production") {
      *
      * and registers them.
      */
-=======
-    var log = Math.log;
-    var LN2 = Math.LN2;
->>>>>>> b8884e92cc211690a599da2aaebd784f5231eaed:ind/src.e31bb0bc.js
+
+   // var log = Math.log;
+   // var LN2 = Math.LN2;
 
     function clz32Fallback(x) {
       var asUint = x >>> 0;
