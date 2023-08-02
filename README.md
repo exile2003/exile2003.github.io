@@ -1,4 +1,3 @@
-#
 <h1 align="center"> Welcome to my repo </h1>
 <p align="center">
   <a href="https://github.com/exile2003">
@@ -23,6 +22,7 @@
 - 📍 I’m From Kaliningrad
 - 💻 3+ Years Experience in Web development Development
 - 👨‍💻 Web development Enthusiast
+  
 ---
 
 ### 🤝 Connect with me:
