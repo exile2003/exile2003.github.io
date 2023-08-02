@@ -9,11 +9,16 @@ title: Welcome to my GitHub
 <script>
   // Ваш фрагмент Markdown
  
-  const markdownText2 = '# Welcome!'
+ 
+  const scriptElement = document.createElement("script");
+    scriptElement.src = "https://cdn.jsdelivr.net/npm/marked/marked.min.js";
+    scriptElement.type = "text/javascript";
+    document.body.appendChild(scriptElement);
+   // scriptElement.remove();
+  
+ const markdownText2 = '# Welcome!'
   const markdownContainer = document.getElementById('markdown-content');
   //const markdownContainer = document.createElement('div');
-  
-
   // Преобразуйте Markdown в HTML и вставьте его в элемент
     markdownContainer.innerHTML = marked(markdownText2);
 //  markdownContainer.innerHTML = marked(markdownText2);
