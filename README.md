@@ -1,4 +1,4 @@
-# Welcome to my repo
+# <p align="center"> Welcome to my repo </p>
 <p align="center">
   <a href="https://github.com/exile2003">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=1F9CF7&width=500&height=50&lines=Hi+all%2C+I'm+Vitalii&center=true&vCenter=true&size=35" alt="Vitalii" /></a>
