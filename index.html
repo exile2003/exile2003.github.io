@@ -2,27 +2,3 @@
 layout: default
 title: Welcome to my GitHub
 ---
-
-<!-- <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> -->
-
-<div id="markdown-content">Привет!</div>
-<script>
-  // Ваш фрагмент Markdown
- 
- 
-  const scriptElement = document.createElement("script");
-    scriptElement.src = "https://cdn.jsdelivr.net/npm/marked/marked.min.js";
-    scriptElement.type = "text/javascript";
-    document.body.appendChild(scriptElement);
-   // scriptElement.remove();
-  
- const markdownText2 = '# Welcome!'
-  const markdownContainer = document.getElementById('markdown-content');
-  //const markdownContainer = document.createElement('div');
-  // Преобразуйте Markdown в HTML и вставьте его в элемент
-    markdownContainer.innerHTML = marked(markdownText2);
-//  markdownContainer.innerHTML = marked(markdownText2);
-//  document.appendChild(markdownContainer)
-</script>
-
-
