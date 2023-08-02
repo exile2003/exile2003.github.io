@@ -1,4 +1,3 @@
-# Я!
 <h1 class="project-name">Welcome to my repo</h1>
 <p align="center">
   <a href="https://github.com/exile2003">
