@@ -1,4 +1,5 @@
-<h1 align="center"> #Welcome to my repo </h1>
+#
+<h1 align="center"> Welcome to my repo </h1>
 <p align="center">
   <a href="https://github.com/exile2003">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=1F9CF7&width=500&height=50&lines=Hi+all%2C+I'm+Vitalii&center=true&vCenter=true&size=35" alt="Vitalii" /></a>
@@ -19,9 +20,10 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/exile2003?&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 ---
+- 👨‍💻 Web development Enthusiast
 - 📍 I’m From Kaliningrad
 - 💻 3+ Years Experience in Web development Development
-- 👨‍💻 Web development Enthusiast
+
 ---
 
 ### 🤝 Connect with me:
