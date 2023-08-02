@@ -1,4 +1,4 @@
-
+<span style="color: red;">Этот текст будет красным цветом</span>
 # Welcome to my repo
 <p align="center">
   <a href="https://github.com/exile2003">
