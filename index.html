@@ -141,12 +141,14 @@ Here are some ideas to get you started:
 -->
     `;
 
+  const markdownText2 = '# Welcome!'
  // const markdownContainer = document.getElementById('markdown-content');
   const markdownContainer = document.createElement('div');
   
 
   // Преобразуйте Markdown в HTML и вставьте его в элемент
-  markdownContainer.innerHTML = marked(markdownText);
+    markdownContainer.innerHTML = markdownText2;
+//  markdownContainer.innerHTML = marked(markdownText2);
   document.appendChild(markdownContainer)
 </script>
 
